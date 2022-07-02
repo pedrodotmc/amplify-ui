@@ -1,5 +1,13 @@
 # @aws-amplify/ui-react
 
+## 3.0.4
+
+### Patch Changes
+
+- [#2228](https://github.com/aws-amplify/amplify-ui/pull/2228) [`60da225f8`](https://github.com/aws-amplify/amplify-ui/commit/60da225f84d51ba51d044c17853558b3514c9f41) Thanks [@calebpollman](https://github.com/calebpollman)! - fix(ui-react): directly return children from Authenticator
+
+* [#2202](https://github.com/aws-amplify/amplify-ui/pull/2202) [`0f5b93c62`](https://github.com/aws-amplify/amplify-ui/commit/0f5b93c62e915eb61d6cb57f1cc27e30f104cfb7) Thanks [@calebpollman](https://github.com/calebpollman)! - chore(ui-react): lint src/primitives/shared
+
 ## 3.0.3
 
 ### Patch Changes
